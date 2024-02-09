@@ -1,0 +1,3 @@
+[submodule "react-gh-action-s3"]
+	path = react-gh-action-s3
+	url = https://github.com/meghrajpawar1232/react-gh-action-s3.git
